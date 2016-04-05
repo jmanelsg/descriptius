@@ -1,5 +1,6 @@
 # descriptius
-Algunes funcions útils per obtenir descriptius a R
+Algunes funcions útils per obtenir descriptius a R.
+Encoding UTF-8.
 
 ## Taula de freqüències adaptada al català
 
